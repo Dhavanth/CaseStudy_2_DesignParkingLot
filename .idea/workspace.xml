@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63f4283e-bac7-422d-ad09-26017eb69d2d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ParkingLot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParkingLotApplicationMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/TicketController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/IssueTicketRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/IssueTicketResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dto/ResponseStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/GateNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/VehicleNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Bill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/BillStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/FeeCalculatorStrategyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Gate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/GateStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/GateType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/ParkingLotStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/ParkingSlot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/ParkingSlotAssignmentStrategyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/ParkingSlotStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/PaymentMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/VehicleTypesAllowed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repositories/GateRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repositories/ParkingLotRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repositories/TicketRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/repositories/VehicleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/TicketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategies/NearestSlotAssignmentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategies/ParkingSlotAssignmentStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategies/ParkingSlotAssignmentStrategyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/strategies/RandomSlotAssignmentStrategy.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2a2Aj7hfHpJvoidw0bTkTYQ1I8M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ParkingLotApplicationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParkingLotApplicationMain" />
+      <module name="ParkingLot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ParkingLotApplicationMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63f4283e-bac7-422d-ad09-26017eb69d2d" name="Changes" comment="" />
+      <created>1703506435494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703506435494</updated>
+      <workItem from="1703506437184" duration="5102000" />
+      <workItem from="1703564870103" duration="5835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
